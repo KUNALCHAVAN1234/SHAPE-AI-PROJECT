@@ -1,0 +1,17 @@
+Enter the city name: Vadodara
+-------------------------------------------------------------
+Weather Stats for - VADODARA  || 23 Jun 2021 | 08:15:11 PM
+-------------------------------------------------------------
+Current temperature is: 31.98 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 62 %
+Current wind speed    : 5.66 kmph
+
+
+
+
+Hello stackoverflow!
+I have a question.
+
+
+
